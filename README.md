@@ -5,21 +5,21 @@ The Student Performance Forecasting System is a Java-based application developed
 
 ## Screenshots
 
-![App Screenshot](https://drive.google.com/file/d/1HBHPeekytOE2_gWvhNxaLTZ_lYQG-MZy/view?usp=sharing)
+![App Screenshot](https://drive.google.com/uc?id=1HBHPeekytOE2_gWvhNxaLTZ_lYQG-MZy)
 
-![App Screenshot](https://drive.google.com/file/d/1tybDdLgtI4yKiAmzCO6k4WFJsVwlM5mC/view?usp=sharing)
+![App Screenshot](https://drive.google.com/uc?id=1tybDdLgtI4yKiAmzCO6k4WFJsVwlM5mC)
 
-![App Screenshot](https://drive.google.com/file/d/1vKEjYBxpLTMBDkg_QTHsJp6Eggfpb1Qe/view?usp=sharing)
+![App Screenshot](https://drive.google.com/uc?id=1vKEjYBxpLTMBDkg_QTHsJp6Eggfpb1Qe)
 
-![App Screenshot](https://drive.google.com/file/d/19hZJtZl37r8dWBAc2KJX-OmofJ-esZHe/view?usp=sharing)
+![App Screenshot](https://drive.google.com/uc?id=19hZJtZl37r8dWBAc2KJX-OmofJ-esZHe)
 
-![App Screenshot](https://drive.google.com/file/d/1WzSSurKUfCHw2ozEi8TemMS-7O-agziJ/view?usp=sharing)
+![App Screenshot](https://drive.google.com/uc?id=1WzSSurKUfCHw2ozEi8TemMS-7O-agziJ)
 
-![App Screenshot](https://drive.google.com/file/d/1B20TTuc6SJ1i9l-yzdjt0FaMgfYns8zT/view?usp=sharing)
+![App Screenshot](https://drive.google.com/uc?id=1B20TTuc6SJ1i9l-yzdjt0FaMgfYns8zT)
 
-![App Screenshot](https://drive.google.com/file/d/1DtUYoBr9nP3y_fKtrXri4IeDFmyxqIaH/view?usp=sharing)
+![App Screenshot](https://drive.google.com/uc?id=1DtUYoBr9nP3y_fKtrXri4IeDFmyxqIaH)
 
-![App Screenshot](https://drive.google.com/file/d/1nGnWBzKb4UnDyoYfWsLbS1wwC4j20cnK/view?usp=sharing)
+![App Screenshot](https://drive.google.com/uc?id=1nGnWBzKb4UnDyoYfWsLbS1wwC4j20cnK)
 
 
 ## Installation
